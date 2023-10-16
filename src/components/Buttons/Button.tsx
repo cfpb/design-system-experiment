@@ -7,7 +7,7 @@ interface ButtonProperties extends ButtonHTMLAttributes<HTMLButtonElement> {
    */
   label: string;
   /**
-   * What is the button's appearance?
+   * What is the button's appearance? This is a test text edit by Jenn
    */
   appearance?: 'primary' | 'secondary' | 'warning';
   /**
